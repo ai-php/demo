@@ -9,6 +9,7 @@
 		function __construct(argument)
 		{
 			# code...
+			echo "sdafasfasdd";
 		}
 
 		public function addUser($value='')
